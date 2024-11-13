@@ -4,16 +4,16 @@
 2. Задаем имя пользователя и email </br>
 ![image](images/1.jpg)</br>
 3. Клонируем удаленный репозиторий на компьютер</br>
-![image](images/2.jpg)
-4. Добавляем файл через интерфейс Github
-![image](images/3.jpg)
-![image](images/4.jpg)
-5. Подтягиваем изменения в локальный репозиторий
-![image](images/5.jpg)
-6. Получаем историю для каждой ветки
-![image](images/6.jpg)
-7. Смотрим последние изменения ветки (изменений много, но в качестве примера представил один скриншот)
-![image](images/7.jpg)
+![image](images/2.jpg) </br>
+4. Добавляем файл через интерфейс Github </br>
+![image](images/3.jpg) </br>
+![image](images/4.jpg)</br>
+5. Подтягиваем изменения в локальный репозиторий </br>
+![image](images/5.jpg)</br>
+6. Получаем историю для каждой ветки </br>
+![image](images/6.jpg) </br>
+7. Смотрим последние изменения ветки </br>
+![image](images/7.jpg) </br>
 8. Выполняется слияние и разрешается конфиликт </br>
 8.1. Переходим в ветку brunch1 </br>
 ![image](images/8.jpg)</br>
@@ -26,21 +26,21 @@
 8.5. Добавляем содержимое рабочего каталога в индекс для последующего коммита </br>
 ![image](images/12.jpg) </br>
 8.6. Смотрим, исправлена ли ошибка и завершаем merge </br>
-![image](images/13.jpg)
+![image](images/13.jpg) </br>
 9. Удаляем побочную ветку master </br>
-![image](images/14.jpg)
+![image](images/14.jpg) </br>
 10. Создаю новый файл и коммичу его, оставляя комментарий </br>
 ![image](images/15.jpg) </br>
 11. Добавляю строчку в файл </br>
 ![image](images/16.jpg) </br>
-12. Удаляю строчку из файла
-![image](images/17.jpg)
+12. Удаляю строчку из файла </br>
+![image](images/17.jpg) </br>
 13. Делаю хард откат коммита </br>
-![image](images/18.jpg)
+![image](images/18.jpg) </br>
 14. Создаю ветку для отчета и перехожу на неё </br>
-![image](images/19.jpg)
-15. Отправляю все данные на удаленный репозиторий 
-![image](image/20.jpg)
+![image](images/19.jpg) </br>
+15. Отправляю все данные на удаленный репозиторий </br>
+![image](images/20.jpg) </br>
 # Лог команд
 git config global user.name/email </br>
 git clone https://github.com/svifec/LR6 </br>
